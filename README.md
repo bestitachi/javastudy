@@ -5,6 +5,7 @@ java的学习.初学乍练
 
 * Guice
 * fastjson
+* gjson
 * guava
 * thrift
 * 线程创建使用
